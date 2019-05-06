@@ -37,15 +37,46 @@ function iniciatabla(){
 }
 
 function cambia(cambiada){
-
-		if(cambiada.style.background=="red"){
-			cambiada.style.background="LawnGreen";
-			document.getElementById(5).style.background="LawnGreen";
+	switch (cambiada.id) {
+	  case 1:
+		if(document.getElementById(1).style.background=="red"){
+			document.getElementById(1).style.background="LawnGreen";
 		}
 		else{
-			cambiada.style.background="red";
-			document.getElementById(5).style.background="red";
+			document.getElementById(1).style.background="red"
 		}
+	  case 2:
+
+		case 3:
+
+		case 4:
+
+		case 5:
+
+	 	case 6:
+
+	 	case 7:
+
+	 	case 8:
+
+	 	case 9:
+
+	 	case 10:
+
+	 	case 11:
+
+	 	case 12:
+
+	 	case 13:
+
+	 	case 14:
+
+	 	case 15:
+
+	 	case 16:
+
+	}
+
 
 
 
@@ -54,6 +85,7 @@ function cambia(cambiada){
 
 	console.log(cambiada.id);
 	console.log(cambiada);
+	console.document.getElementById(1);
 
 
 
