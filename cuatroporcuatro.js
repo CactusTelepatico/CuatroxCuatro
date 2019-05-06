@@ -77,8 +77,6 @@ function cambia(cambiada){
 			document.getElementById(4).style.backgroundColor="red";
 		}
 
-
-
 		 break;
 
 
@@ -372,19 +370,308 @@ function cambia(cambiada){
 
 	 	case "9":
 
+						if(document.getElementById(9).style.backgroundColor=="red"){
+							document.getElementById(9).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(9).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(10).style.backgroundColor=="red"){
+							document.getElementById(10).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(10).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(13).style.backgroundColor=="red"){
+							document.getElementById(13).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(13).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(12).style.backgroundColor=="red"){
+							document.getElementById(12).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(12).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(5).style.backgroundColor=="red"){
+							document.getElementById(5).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(5).style.backgroundColor="red";
+						}
+
+						break;
+
 	 	case "10":
+						if(document.getElementById(10).style.backgroundColor=="red"){
+							document.getElementById(10).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(10).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(9).style.backgroundColor=="red"){
+							document.getElementById(9).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(9).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(11).style.backgroundColor=="red"){
+							document.getElementById(11).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(11).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(14).style.backgroundColor=="red"){
+							document.getElementById(14).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(14).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(6).style.backgroundColor=="red"){
+							document.getElementById(6).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(6).style.backgroundColor="red";
+						}
+
+						break;
 
 	 	case "11":
+						if(document.getElementById(11).style.backgroundColor=="red"){
+							document.getElementById(11).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(11).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(10).style.backgroundColor=="red"){
+							document.getElementById(10).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(10).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(12).style.backgroundColor=="red"){
+							document.getElementById(12).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(12).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(7).style.backgroundColor=="red"){
+							document.getElementById(7).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(7).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(15).style.backgroundColor=="red"){
+							document.getElementById(15).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(15).style.backgroundColor="red";
+						}
+
+						break;
 
 	 	case "12":
+						if(document.getElementById(12).style.backgroundColor=="red"){
+							document.getElementById(12).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(12).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(11).style.backgroundColor=="red"){
+							document.getElementById(11).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(11).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(9).style.backgroundColor=="red"){
+							document.getElementById(9).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(9).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(8).style.backgroundColor=="red"){
+							document.getElementById(8).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(8).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(16).style.backgroundColor=="red"){
+							document.getElementById(16).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(16).style.backgroundColor="red";
+						}
+
+						break;
 
 	 	case "13":
+						if(document.getElementById(13).style.backgroundColor=="red"){
+							document.getElementById(13).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(13).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(14).style.backgroundColor=="red"){
+							document.getElementById(14).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(14).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(16).style.backgroundColor=="red"){
+							document.getElementById(16).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(16).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(9).style.backgroundColor=="red"){
+							document.getElementById(9).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(9).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(1).style.backgroundColor=="red"){
+							document.getElementById(1).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(1).style.backgroundColor="red";
+						}
+
+						break;
 
 	 	case "14":
+						if(document.getElementById(14).style.backgroundColor=="red"){
+							document.getElementById(14).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(14).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(13).style.backgroundColor=="red"){
+							document.getElementById(13).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(13).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(15).style.backgroundColor=="red"){
+							document.getElementById(15).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(15).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(10).style.backgroundColor=="red"){
+							document.getElementById(10).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(10).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(2).style.backgroundColor=="red"){
+							document.getElementById(2).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(2).style.backgroundColor="red";
+						}
+
+						break;
 
 	 	case "15":
+						if(document.getElementById(15).style.backgroundColor=="red"){
+							document.getElementById(15).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(15).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(16).style.backgroundColor=="red"){
+							document.getElementById(16).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(16).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(14).style.backgroundColor=="red"){
+							document.getElementById(14).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(14).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(11).style.backgroundColor=="red"){
+							document.getElementById(11).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(11).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(3).style.backgroundColor=="red"){
+							document.getElementById(3).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(3).style.backgroundColor="red";
+						}
+
+						break;
 
 	 	case "16":
+						if(document.getElementById(16).style.backgroundColor=="red"){
+							document.getElementById(16).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(16).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(15).style.backgroundColor=="red"){
+							document.getElementById(15).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(15).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(12).style.backgroundColor=="red"){
+							document.getElementById(12).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(12).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(13).style.backgroundColor=="red"){
+							document.getElementById(13).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(13).style.backgroundColor="red";
+						}
+
+						if(document.getElementById(4).style.backgroundColor=="red"){
+							document.getElementById(4).style.backgroundColor="LawnGreen";
+						}
+						else{
+							document.getElementById(4).style.backgroundColor="red";
+						}
+
+						break;
 
 	}
 
